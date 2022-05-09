@@ -1,4 +1,4 @@
-# Project_Berberette_Price
+# Distributed Deep Learning Network to Predict Location of Google Street View Data
 
 # References
 [1] https://nirvan66.github.io/geoguessr.html
